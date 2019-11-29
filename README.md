@@ -55,7 +55,7 @@
 
 **方案一**
 
-### <a href="http://1t.click/brvk" target="_blank">ssr搭建教程</a>
+### <a href="http://1t.click/brvk" target="_blank" >ssr搭建教程</a>
 
 
 <br/>
