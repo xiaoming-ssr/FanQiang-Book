@@ -30,7 +30,7 @@
 
 <br/>
 
-https://github.com/getlantern/download
+**https://github.com/getlantern/download**
 
 <br/>
 
@@ -55,8 +55,8 @@ https://github.com/getlantern/download
 
 **方案一**
 
-**ssr搭建教程：**  
-**http://1t.click/brvk**
+### <a href="http://1t.click/brvk" target="_blank">ssr搭建教程</a>
+
 
 <br/>
 
