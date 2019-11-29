@@ -49,14 +49,14 @@ https://github.com/getlantern/download
 
 **科学上网的终极姿势，搭建自己的科学上网服务器**
 
+![](https://miro.medium.com/max/664/1*xoOkFye25dNm0T9d751NPQ.png)
+
 <br/>
 
 **方案一**
 
 **ssr搭建教程：**  
 **http://1t.click/brvk**
-
-![](https://miro.medium.com/max/664/1*xoOkFye25dNm0T9d751NPQ.png)
 
 <br/>
 
