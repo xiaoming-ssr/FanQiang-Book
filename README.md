@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<span id="2">2.现成机场 <a href="http://1t.click/bsae" target="_blank">(推荐)</a></span>
+<span id="2">2.现成机场 [(推荐方案)](http://1t.click/bsae)</span>
 --------
 ![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5f/44/6b/5f446b85-8ada-c442-9647-4c35a99adaf8/source/256x256bb.jpg)
 
@@ -78,7 +78,9 @@
 
 **老司机和小白皆可，性价比最高的一种方案，也非常受欢迎，$2.88 最低性价比套餐随时可能供货不足**
 
-+ ### <a href="http://1t.click/bsae" target="_blank">搬瓦工 Just My Socks 详细图文教程</a>
++ ### [搬瓦工 Just My Socks 详细图文教程](http://1t.click/bsae)
+
++ ### [套餐大全](https://git.io/JeMYp)
 
 <br/>
 <br/>
