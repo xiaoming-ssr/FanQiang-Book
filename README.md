@@ -28,7 +28,7 @@
 -------------
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.png)
 
-**机场是老司机、小白皆可的一种方案，性价比高，省事省心，稳定性与速度兼顾。**
+**机场是老司机和小白皆可的一种方案，性价比高，省事省心，稳定性与速度兼顾。**
 
 + ### [搬瓦工 Just My Socks 详细图文教程](http://1t.click/bsae)
 
@@ -84,4 +84,4 @@
 
 ## https://Git.io/Je1U3
 
-**如果您是 Github 用户欢迎 star 和 Fork**
+**如果您是 Github 用户欢迎 star 和 Fork，有任何问题 [issues](https://github.com/xiaoming-ssr/FanQiang-Book/issues) 区讨论**
