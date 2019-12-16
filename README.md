@@ -1,5 +1,7 @@
 # FanQiang-Book——2020 科学上网方法整理
 
+![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/1.jpg)
+
 这是一份科学上网（翻墙）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。
 
 <br/>
@@ -24,6 +26,8 @@
 
 <span id="0">二、小白入门 —— 使用现成机场</span>
 -------------
+![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.png)
+
 **机场是老司机、小白皆可的一种方案，性价比高，省事省心，稳定性与速度兼顾。**
 
 + ### [搬瓦工 Just My Socks 详细图文教程](http://1t.click/bsae)
@@ -53,6 +57,7 @@
 
 <span id="1">三、搭建自己的科学上网服务器</span>
 ----------------
+![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/3.png)
 
 **需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。**
 
@@ -69,7 +74,9 @@
 
 这里推荐的是可以免费更换 IP 的国外服务器商 Vultr ，用其他服务器商也可以，只要是国外的机房，独立 IP 就行，最好可以免费更换 IP ，不然成本太高。
 
-
+<br/>
+<br/>
+<br/>
 
 ----
 
