@@ -61,7 +61,7 @@
 
 **需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。**
 
-+ ### <a href="http://1t.click/brYS" target="_blank" >vps服务器一键搭建 Shadowsocks（ssr）图文教程</a>
++ ### <a href="http://1t.click/brYS" target="_blank" >VPS 服务器一键搭建 Shadowsocks（ssr）图文教程</a>
 
 
 <br/>
