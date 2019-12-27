@@ -26,7 +26,7 @@
 
 <span id="0">二、小白入门 —— 使用现成机场</span>
 -------------
-![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.jpg)
+![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.png)
 
 **机场是老司机和小白皆可的一种方案，性价比高，省事省心，稳定性与速度兼顾。**
 
