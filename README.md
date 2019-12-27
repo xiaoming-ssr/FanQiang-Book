@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-+ ### [搬瓦工机场 Just My Socks 详细图文教程](https://Git.io/JeNke)
++ ### [搬瓦工机场 Just My Socks 详细图文教程](https://git.io/JeNks)
 
 + ### [套餐大全](https://Git.io/JeNkk)
 
