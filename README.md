@@ -33,7 +33,9 @@
 <br/>
 <br/>
 
-+ ### [搬瓦工机场 Just My Socks 详细图文教程](https://git.io/JeNks)
++ ### [搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/PCTCCVrvGK8qXVkV)
+（备用链接：https://git.io/JeNks）
+
 
 + ### [套餐大全](https://Git.io/JeNkk)
 
@@ -53,7 +55,8 @@
 <br/>
 <br/>
 
-+ ### [Blinkload 机场——使用教程](https://Git.io/JeNkt)
++ ### [Blinkload 机场——使用教程](https://shimo.im/docs/Hydt3dQGQYrXGt3X)
+(备用链接：https://Git.io/JeNkt)
 
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/4.png)
 
@@ -79,7 +82,8 @@ Blinkload 是一家成立于2017年的香港公司，前身为 THE.SSR，也是�
 
 **需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。**
 
-+ ### [VPS 服务器一键搭建 Shadowsocks【ssr】图文教程](https://Git.io/JeNke)
++ ### [VPS 服务器一键搭建 Shadowsocks【ssr】图文教程](https://shimo.im/docs/1bb0d5b98de2420e)
+(备用链接：https://Git.io/JeNke)
 
 
 <br/>
