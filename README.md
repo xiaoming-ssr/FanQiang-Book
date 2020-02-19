@@ -13,11 +13,22 @@
 <br/>
 <br/>
 
-## 一、前言/目录
+## 前言
+**翻墙**（又叫 **科学上网**），它决定着我们很多人的网络生活质量，Gmail 的邮件能不能回，能不能正常使用 Google 搜索引擎精确查找问题，能不能看特朗普的动态，能不能在社交媒体上跟踪自己感兴趣的群组，能不能看国外的公开课视频，Netflix、HBO上的新剧能不能追，都取决于我们能否访问外网。
+
+科学上网的原理：通过 VPN、ss、ssr、v2ray 等这些技术对上网流量、数据加密，以此躲避 GFW 防火墙检测实现自由上网，也被用于数据传输安全、网络匿名、隐私保护等。
+
+**注：** 网络不是法外之地，我们的目的是学习国外先进科学技术，切莫在网络发表不当言论。
+<br/>
+<br/>
+<br/>
+
+## 目录
 -------
-* [**小白入门 —— 使用现成机场**](#0)
-  * [**搬瓦工机场使用教程**](#1)
-  * [**Blinkload 机场使用教程**](#2)
+* [**小白入门 —— 使用 VPN**](#1)
+* [**SS、SSR、V2ray 机场**](#2)
+  * [**搬瓦工机场使用教程**](#4)
+  * [**Blinkload 机场使用教程**](#5)
 
 * [**搭建自己的科学上网服务器**](#3)
 
@@ -26,8 +37,14 @@
 <br/>
 <br/>
 
+<span id="1">一、小白入门 —— 使用 VPN</span>
+-------------
 
-<span id="0">二、小白入门 —— 使用现成机场</span>
+
+<br/>
+<br/>
+
+<span id="2">二、SS、SSR、V2ray 机场</span>
 -------------
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.png)
 
@@ -36,7 +53,7 @@
 <br/>
 <br/>
 
-+ ### <span id="1">[搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/PCTCCVrvGK8qXVkV)</span>
++ ### <span id="4">[搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/PCTCCVrvGK8qXVkV)</span>
 （备用链接：https://git.io/JeNks）
 
 
@@ -58,7 +75,7 @@
 <br/>
 <br/>
 
-+ ### <span id="2">[Blinkload 机场——使用教程](https://shimo.im/docs/Hydt3dQGQYrXGt3X)</span>
++ ### <span id="5">[Blinkload 机场——使用教程](https://shimo.im/docs/Hydt3dQGQYrXGt3X)</span>
 (备用链接：https://Git.io/JeNkt)
 
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/4.png)
@@ -109,7 +126,9 @@ Blinkload 是一家成立于2017年的香港公司，前身为 THE.SSR，也是�
 
 ----
 
-**本项目持续更新最新可用的科学上网方法，建议 【Ctrl + D】 收藏本页防止迷路**
+**在中国翻墙永远是一个动态的过程，墙会加高，技术也在迭代，VPN、ss机场官网也会更换。**
+
+**本项目会持续更新最新可用的科学上网技术，建议 【Ctrl + D】 收藏 防止迷路**
 
 ## 本页短网址：https://Git.io/Je1U3
 
