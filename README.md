@@ -28,7 +28,7 @@
 * [**小白入门 —— 使用 VPN**](#1)
 * [**SS、SSR、V2ray 机场**](#2)
   * [**搬瓦工机场使用教程**](#4)
-  * [**Blinkload 机场使用教程**](#5)
+  <!-- * [**Blinkload 机场使用教程**](#5) -->
 
 * [**搭建自己的科学上网服务器**](#3)
 
@@ -74,7 +74,7 @@
 
 <br/>
 <br/>
-
+<!--
 + ### <span id="5">[Blinkload 机场——使用教程](https://shimo.im/docs/Hydt3dQGQYrXGt3X)</span>
 (备用链接：https://Git.io/JeNkt)
 
@@ -98,7 +98,7 @@ Blinkload 是一家成立于2017年的香港公司，前身为 THE.SSR，也是�
 <br/>
 <br/>
 <br/>
-
+-->
 
 <span id="3">三、搭建自己的科学上网服务器</span>
 ----------------
