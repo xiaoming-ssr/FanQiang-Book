@@ -60,7 +60,7 @@
 <br/>
 
 + ### <span id="4">[搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/PCTCCVrvGK8qXVkV)</span>
-（备用链接：https://git.io/JeNks）
+（备用链接: https://git.io/JeNks ）
 
 
 + ### [套餐大全](https://Git.io/JeNkk)
