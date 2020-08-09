@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-**[小白图文攻略](https://shimo.im/docs/PCTCCVrvGK8qXVkV)** （右键新窗口打开）
+**[小白图文攻略](https://shimo.im/docs/im63lcFn1Ek6b9W8/)** （右键新窗口打开）
 
 <br/>
 <br/>
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-+ ### <span id="4">[搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/PCTCCVrvGK8qXVkV)</span>
++ ### <span id="4">[搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/im63lcFn1Ek6b9W8/)</span>
 （备用链接: https://git.io/JeNks ）
 
 
@@ -78,7 +78,7 @@
 <br/>
 <br/>
 <!--
-+ ### <span id="5">[Blinkload 机场——使用教程](https://shimo.im/docs/Hydt3dQGQYrXGt3X)</span>
++ ### <span id="5">[Blinkload 机场——使用教程](https://shimo.im/docs/KNdfBLnaDUIgMOPa/)</span>
 (备用链接：https://Git.io/JeNkt)
 
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/4.png)
@@ -110,7 +110,7 @@ Blinkload 是一家成立于2017年的香港公司，前身为 THE.SSR，也是�
 
 **需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。**
 
-+ ### [搭建自己的科学上网服务器【图文】](https://shimo.im/docs/1bb0d5b98de2420e)
++ ### [搭建自己的科学上网服务器【图文】](https://shimo.im/docs/KNdfBLnaDUIgMOPa/)
 (备用链接：https://Git.io/JeNke)
 
 
