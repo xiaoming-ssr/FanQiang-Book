@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-**[小白图文攻略](https://shimo.im/docs/p7UKlqmAGH4b0YiR)** （右键新窗口打开）
+**[小白图文攻略](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/%E6%90%AC%E7%93%A6%E5%B7%A5-Just-My-Socks-%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)** （右键新窗口打开）
 
 <br/>
 <br/>
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-+ ### <span id="4">[搬瓦工机场 Just My Socks 详细图文教程](https://shimo.im/docs/p7UKlqmAGH4b0YiR)</span>
++ ### <span id="4">[搬瓦工机场 Just My Socks 详细图文教程](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/%E6%90%AC%E7%93%A6%E5%B7%A5-Just-My-Socks-%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)</span>
 （备用链接: https://git.io/JeNks ）
 
 
@@ -110,7 +110,7 @@ Blinkload 是一家成立于2017年的香港公司，前身为 THE.SSR，也是�
 
 **需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。**
 
-+ ### [搭建自己的科学上网服务器【图文】](https://shimo.im/docs/56SDCR6G3VQWx2yN)
++ ### [搭建自己的科学上网服务器【图文】](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%9C%8D%E5%8A%A1%E5%99%A8)
 (备用链接：https://Git.io/JeNke)
 
 
