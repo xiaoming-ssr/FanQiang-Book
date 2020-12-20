@@ -3,11 +3,12 @@
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/1.jpg)
 
 这是一份简明的科学上网（翻墙）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。
+<br/>
+<br/>
+<br/>
 
 **遵守中国互联网法，做一个遵纪守法的好公民。**
 
-<br/>
-<br/>
 <br/>
 
 ## 简介
@@ -55,7 +56,7 @@ SS、SSR、V2ray 是什么？
 
 + ### [Just My Socks 机场图文使用教程](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/%E6%90%AC%E7%93%A6%E5%B7%A5-Just-My-Socks-%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
 
-```介绍：著名 VPS 服务商 “搬瓦工” 旗下的机场```
+```介绍：Just My Socks 是 BandwagonHost（搬瓦工）官方旗下机场，而搬瓦工则是美国 IT7 公司旗下国际知名VPS服务商，稳定靠谱。```
 
 ```特点：被墙自动换 IP，界面有中文但是是繁体且不完全，适合有一定科学上网基础的同学。```
 
