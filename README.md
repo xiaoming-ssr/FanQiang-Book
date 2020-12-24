@@ -93,7 +93,7 @@ VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵�
 
 ----
 
-
-## 本页短网址：https://Git.io/Je1U3
+## 本项目长期保持更新，收藏防止迷路
+## 本页短网址：https://Git.io/Je1U3 
 
 **如果您是 Github 用户欢迎 star 和 Fork，有任何问题 [issues](https://github.com/xiaoming-ssr/FanQiang-Book/issues) 区讨论**
