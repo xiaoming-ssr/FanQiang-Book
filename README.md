@@ -21,15 +21,15 @@
 <br/>
 <br/>
 
-<span id="1">一、VPN</span>
--------------
+## 一、VPN
+
 VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵，现在已不提倡使用。
 
 <br/>
 <br/>
 
-<span id="2">二、SS、SSR、V2ray 机场</span>
--------------
+## 二、SS、SSR、V2ray 机场
+
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.png)
 
 ****SS、SSR、V2ray 是什么？****
@@ -66,8 +66,8 @@ VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵�
 <br/>
 <br/>
 
-<span id="3">三、搭建自己的科学上网服务器</span>
-----------------
+## 三、搭建自己的科学上网服务器
+
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/3.png)
 
 需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。
@@ -93,7 +93,9 @@ VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵�
 
 ----
 
-## 本项目长期保持更新，收藏防止迷路
-## 本页短网址：https://Git.io/Je1U3 
+## 最后
+##### 本项目长期保持更新，收藏防止迷路
 
-**如果您是 Github 用户欢迎 star 和 Fork，有任何问题 [issues](https://github.com/xiaoming-ssr/FanQiang-Book/issues) 区讨论**
+##### 本页短网址：https://Git.io/Je1U3 
+
+##### 如果您是 Github 用户欢迎 star 和 Fork，有任何问题 [issues](https://github.com/xiaoming-ssr/FanQiang-Book/issues) 区讨论
