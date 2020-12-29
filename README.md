@@ -51,7 +51,7 @@ VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵�
 <br/>
 
 
-+ ### [Blinkload 机场使用教程](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/Blinkload-%E6%9C%BA%E5%9C%BA%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
++ ### [Blinkload 机场使用教程](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/Blinkload-%E6%9C%BA%E5%9C%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ```介绍：一家成立于2017年的香港公司，正规合法，已稳定运行多年。```
 
