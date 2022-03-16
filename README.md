@@ -1,4 +1,4 @@
-# FanQiang-Book——2021 科学上网指南
+# FanQiang-Book——2022 科学上网指南
 
 ![](https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/1.jpg)
 
