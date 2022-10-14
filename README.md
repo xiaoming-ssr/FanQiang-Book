@@ -50,20 +50,20 @@ VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵�
 <br/>
 <br/>
 
-
+<!--
 + ### [Blinkload 机场使用教程](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/Blinkload-%E6%9C%BA%E5%9C%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ```介绍：一家成立于2017年的香港公司，正规合法，已稳定运行多年。```
 
  ```特点：相对搬瓦工来说 Blinkload 的中文界面和售后服务对国内用户友好很多，也更适合小白用户，香港节点极速流畅不卡顿。经常会推出折扣活动。```
 
-```支持协议：SS、SSR、V2ray```
+```支持协议：SS、SSR、V2ray```-->
 
 + ### [Just My Socks 机场图文使用教程](https://github.com/xiaoming-ssr/FanQiang-Book/wiki/%E6%90%AC%E7%93%A6%E5%B7%A5-Just-My-Socks-%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
 
 ```介绍：Just My Socks 是 BandwagonHost（搬瓦工）官方旗下机场，而搬瓦工则是美国 IT7 公司旗下国际知名VPS服务商，稳定靠谱。```
 
-```特点：被墙自动换 IP，界面有中文但是是繁体且不完全，适合有一定科学上网基础的同学。```
+```特点：被墙自动换 IP，界面有繁体中文，国外知名服务商，安全有保障，不怕跑路。```
 
 ```支持协议：SS、V2ray```
 
